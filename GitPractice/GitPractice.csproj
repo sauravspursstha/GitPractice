@@ -142,6 +142,7 @@
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Controllers\BritishController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\SoftwaricaController.cs" />
     <Compile Include="Global.asax.cs">
@@ -187,7 +188,11 @@
     <Content Include="Views\Home\About.cshtml" />
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
+<<<<<<< HEAD
     <Content Include="Views\Softwarica\Index.cshtml" />
+=======
+    <Content Include="Views\British\Index.cshtml" />
+>>>>>>> cb4c829d3e6af2289c6a961a4b363340abbc1805
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Models\" />
