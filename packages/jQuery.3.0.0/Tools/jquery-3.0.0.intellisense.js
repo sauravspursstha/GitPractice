@@ -1,4 +1,8 @@
+<<<<<<< HEAD:packages/jQuery.3.0.0/Tools/jquery-3.0.0.intellisense.js
 intellisense.annotate(jQuery, {
+=======
+﻿intellisense.annotate(jQuery, {
+>>>>>>> 1ae5e8211d978a069597b8d7bd796a9692f588e8:packages/jQuery.1.10.2/Tools/jquery-1.10.2.intellisense.js
   'ajax': function() {
     /// <signature>
     ///   <summary>Perform an asynchronous HTTP (Ajax) request.</summary>

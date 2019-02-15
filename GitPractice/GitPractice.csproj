@@ -146,19 +146,28 @@
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\FilterConfig2.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
+<<<<<<< HEAD
     <Compile Include="App_Start\RouteConfig2.cs" />
     <Compile Include="Controllers\CollageController.cs" />
+=======
+    <Compile Include="Controllers\BritishController.cs" />
+>>>>>>> 1ae5e8211d978a069597b8d7bd796a9692f588e8
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\SoftwaricaController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <Content Include="Content\bootstrap-grid.css" />
     <Content Include="Content\bootstrap-grid.min.css" />
     <Content Include="Content\bootstrap-reboot.css" />
     <Content Include="Content\bootstrap-reboot.min.css" />
+=======
+    <Content Include="App_Data\Image\a.png" />
+>>>>>>> 1ae5e8211d978a069597b8d7bd796a9692f588e8
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="favicon.ico" />
@@ -229,6 +238,7 @@
     <Content Include="Views\Home\About.cshtml" />
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
+<<<<<<< HEAD
     <Content Include="Scripts\umd\popper.min.js.map" />
     <Content Include="Scripts\umd\popper.js.map" />
     <Content Include="Scripts\umd\popper-utils.min.js.map" />
@@ -239,9 +249,15 @@
     <Content Include="Scripts\popper-utils.min.js.map" />
     <Content Include="Scripts\popper-utils.js.map" />
     <Content Include="Views\Collage\Index.cshtml" />
+=======
+<<<<<<< HEAD
+    <Content Include="Views\Softwarica\Index.cshtml" />
+=======
+    <Content Include="Views\British\Index.cshtml" />
+>>>>>>> cb4c829d3e6af2289c6a961a4b363340abbc1805
+>>>>>>> 1ae5e8211d978a069597b8d7bd796a9692f588e8
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="App_Data\" />
     <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>

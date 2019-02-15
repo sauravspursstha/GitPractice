@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\acer\source\ApiProject\GitPractice\GitPractice\bin\ApplicationInsights.config
 C:\Users\acer\source\ApiProject\GitPractice\GitPractice\bin\GitPractice.dll.config
 C:\Users\acer\source\ApiProject\GitPractice\GitPractice\bin\GitPractice.dll
@@ -41,3 +42,93 @@ C:\Users\acer\source\ApiProject\GitPractice\GitPractice\obj\Debug\GitPractice.cs
 C:\Users\acer\source\ApiProject\GitPractice\GitPractice\obj\Debug\GitPractice.dll
 C:\Users\acer\source\ApiProject\GitPractice\GitPractice\obj\Debug\GitPractice.pdb
 C:\Users\acer\source\ApiProject\GitPractice\GitPractice\obj\Debug\GitPractice.csprojAssemblyReference.cache
+=======
+<<<<<<< HEAD
+C:\Users\rosan\Documents\GitPractice\GitPractice\bin\ApplicationInsights.config
+C:\Users\rosan\Documents\GitPractice\GitPractice\bin\GitPractice.dll.config
+C:\Users\rosan\Documents\GitPractice\GitPractice\bin\GitPractice.dll
+C:\Users\rosan\Documents\GitPractice\GitPractice\bin\GitPractice.pdb
+C:\Users\rosan\Documents\GitPractice\GitPractice\bin\Antlr3.Runtime.dll
+C:\Users\rosan\Documents\GitPractice\GitPractice\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\rosan\Documents\GitPractice\GitPractice\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\rosan\Documents\GitPractice\GitPractice\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\rosan\Documents\GitPractice\GitPractice\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\rosan\Documents\GitPractice\GitPractice\bin\Microsoft.AI.Web.dll
+C:\Users\rosan\Documents\GitPractice\GitPractice\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\rosan\Documents\GitPractice\GitPractice\bin\Microsoft.ApplicationInsights.dll
+C:\Users\rosan\Documents\GitPractice\GitPractice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rosan\Documents\GitPractice\GitPractice\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\rosan\Documents\GitPractice\GitPractice\bin\Newtonsoft.Json.dll
+C:\Users\rosan\Documents\GitPractice\GitPractice\bin\System.Web.Helpers.dll
+C:\Users\rosan\Documents\GitPractice\GitPractice\bin\System.Web.Mvc.dll
+C:\Users\rosan\Documents\GitPractice\GitPractice\bin\System.Web.Optimization.dll
+C:\Users\rosan\Documents\GitPractice\GitPractice\bin\System.Web.Razor.dll
+C:\Users\rosan\Documents\GitPractice\GitPractice\bin\System.Web.WebPages.Deployment.dll
+C:\Users\rosan\Documents\GitPractice\GitPractice\bin\System.Web.WebPages.dll
+C:\Users\rosan\Documents\GitPractice\GitPractice\bin\System.Web.WebPages.Razor.dll
+C:\Users\rosan\Documents\GitPractice\GitPractice\bin\WebGrease.dll
+C:\Users\rosan\Documents\GitPractice\GitPractice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rosan\Documents\GitPractice\GitPractice\bin\System.Web.Helpers.xml
+C:\Users\rosan\Documents\GitPractice\GitPractice\bin\System.Web.Mvc.xml
+C:\Users\rosan\Documents\GitPractice\GitPractice\bin\System.Web.Optimization.xml
+C:\Users\rosan\Documents\GitPractice\GitPractice\bin\System.Web.Razor.xml
+C:\Users\rosan\Documents\GitPractice\GitPractice\bin\System.Web.WebPages.xml
+C:\Users\rosan\Documents\GitPractice\GitPractice\bin\System.Web.WebPages.Deployment.xml
+C:\Users\rosan\Documents\GitPractice\GitPractice\bin\System.Web.WebPages.Razor.xml
+C:\Users\rosan\Documents\GitPractice\GitPractice\bin\Antlr3.Runtime.pdb
+C:\Users\rosan\Documents\GitPractice\GitPractice\bin\Newtonsoft.Json.xml
+C:\Users\rosan\Documents\GitPractice\GitPractice\bin\Microsoft.ApplicationInsights.xml
+C:\Users\rosan\Documents\GitPractice\GitPractice\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\rosan\Documents\GitPractice\GitPractice\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\rosan\Documents\GitPractice\GitPractice\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\rosan\Documents\GitPractice\GitPractice\bin\Microsoft.AI.Web.xml
+C:\Users\rosan\Documents\GitPractice\GitPractice\obj\Debug\GitPractice.csprojAssemblyReference.cache
+C:\Users\rosan\Documents\GitPractice\GitPractice\obj\Debug\GitPractice.csproj.CoreCompileInputs.cache
+C:\Users\rosan\Documents\GitPractice\GitPractice\obj\Debug\GitPractice.csproj.CopyComplete
+C:\Users\rosan\Documents\GitPractice\GitPractice\obj\Debug\GitPractice.dll
+C:\Users\rosan\Documents\GitPractice\GitPractice\obj\Debug\GitPractice.pdb
+=======
+C:\Users\saurav\Desktop\8 SQUARE INTERN\GitPractice\GitPractice\bin\ApplicationInsights.config
+C:\Users\saurav\Desktop\8 SQUARE INTERN\GitPractice\GitPractice\bin\GitPractice.dll.config
+C:\Users\saurav\Desktop\8 SQUARE INTERN\GitPractice\GitPractice\bin\GitPractice.dll
+C:\Users\saurav\Desktop\8 SQUARE INTERN\GitPractice\GitPractice\bin\GitPractice.pdb
+C:\Users\saurav\Desktop\8 SQUARE INTERN\GitPractice\GitPractice\bin\Antlr3.Runtime.dll
+C:\Users\saurav\Desktop\8 SQUARE INTERN\GitPractice\GitPractice\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\saurav\Desktop\8 SQUARE INTERN\GitPractice\GitPractice\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\saurav\Desktop\8 SQUARE INTERN\GitPractice\GitPractice\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\saurav\Desktop\8 SQUARE INTERN\GitPractice\GitPractice\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\saurav\Desktop\8 SQUARE INTERN\GitPractice\GitPractice\bin\Microsoft.AI.Web.dll
+C:\Users\saurav\Desktop\8 SQUARE INTERN\GitPractice\GitPractice\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\saurav\Desktop\8 SQUARE INTERN\GitPractice\GitPractice\bin\Microsoft.ApplicationInsights.dll
+C:\Users\saurav\Desktop\8 SQUARE INTERN\GitPractice\GitPractice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\saurav\Desktop\8 SQUARE INTERN\GitPractice\GitPractice\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\saurav\Desktop\8 SQUARE INTERN\GitPractice\GitPractice\bin\Newtonsoft.Json.dll
+C:\Users\saurav\Desktop\8 SQUARE INTERN\GitPractice\GitPractice\bin\System.Web.Helpers.dll
+C:\Users\saurav\Desktop\8 SQUARE INTERN\GitPractice\GitPractice\bin\System.Web.Mvc.dll
+C:\Users\saurav\Desktop\8 SQUARE INTERN\GitPractice\GitPractice\bin\System.Web.Optimization.dll
+C:\Users\saurav\Desktop\8 SQUARE INTERN\GitPractice\GitPractice\bin\System.Web.Razor.dll
+C:\Users\saurav\Desktop\8 SQUARE INTERN\GitPractice\GitPractice\bin\System.Web.WebPages.Deployment.dll
+C:\Users\saurav\Desktop\8 SQUARE INTERN\GitPractice\GitPractice\bin\System.Web.WebPages.dll
+C:\Users\saurav\Desktop\8 SQUARE INTERN\GitPractice\GitPractice\bin\System.Web.WebPages.Razor.dll
+C:\Users\saurav\Desktop\8 SQUARE INTERN\GitPractice\GitPractice\bin\WebGrease.dll
+C:\Users\saurav\Desktop\8 SQUARE INTERN\GitPractice\GitPractice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\saurav\Desktop\8 SQUARE INTERN\GitPractice\GitPractice\bin\System.Web.Helpers.xml
+C:\Users\saurav\Desktop\8 SQUARE INTERN\GitPractice\GitPractice\bin\System.Web.Mvc.xml
+C:\Users\saurav\Desktop\8 SQUARE INTERN\GitPractice\GitPractice\bin\System.Web.Optimization.xml
+C:\Users\saurav\Desktop\8 SQUARE INTERN\GitPractice\GitPractice\bin\System.Web.Razor.xml
+C:\Users\saurav\Desktop\8 SQUARE INTERN\GitPractice\GitPractice\bin\System.Web.WebPages.xml
+C:\Users\saurav\Desktop\8 SQUARE INTERN\GitPractice\GitPractice\bin\System.Web.WebPages.Deployment.xml
+C:\Users\saurav\Desktop\8 SQUARE INTERN\GitPractice\GitPractice\bin\System.Web.WebPages.Razor.xml
+C:\Users\saurav\Desktop\8 SQUARE INTERN\GitPractice\GitPractice\bin\Antlr3.Runtime.pdb
+C:\Users\saurav\Desktop\8 SQUARE INTERN\GitPractice\GitPractice\bin\Newtonsoft.Json.xml
+C:\Users\saurav\Desktop\8 SQUARE INTERN\GitPractice\GitPractice\bin\Microsoft.ApplicationInsights.xml
+C:\Users\saurav\Desktop\8 SQUARE INTERN\GitPractice\GitPractice\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\saurav\Desktop\8 SQUARE INTERN\GitPractice\GitPractice\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\saurav\Desktop\8 SQUARE INTERN\GitPractice\GitPractice\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\saurav\Desktop\8 SQUARE INTERN\GitPractice\GitPractice\bin\Microsoft.AI.Web.xml
+C:\Users\saurav\Desktop\8 SQUARE INTERN\GitPractice\GitPractice\obj\Debug\GitPractice.csprojResolveAssemblyReference.cache
+C:\Users\saurav\Desktop\8 SQUARE INTERN\GitPractice\GitPractice\obj\Debug\GitPractice.csproj.CoreCompileInputs.cache
+C:\Users\saurav\Desktop\8 SQUARE INTERN\GitPractice\GitPractice\obj\Debug\GitPractice.dll
+C:\Users\saurav\Desktop\8 SQUARE INTERN\GitPractice\GitPractice\obj\Debug\GitPractice.pdb
+>>>>>>> cb4c829d3e6af2289c6a961a4b363340abbc1805
+>>>>>>> 1ae5e8211d978a069597b8d7bd796a9692f588e8

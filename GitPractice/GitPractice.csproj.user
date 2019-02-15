@@ -8,7 +8,11 @@
     <WebStackScaffolding_IsLayoutPageSelected>True</WebStackScaffolding_IsLayoutPageSelected>
     <WebStackScaffolding_IsPartialViewSelected>False</WebStackScaffolding_IsPartialViewSelected>
     <WebStackScaffolding_IsReferencingScriptLibrariesSelected>False</WebStackScaffolding_IsReferencingScriptLibrariesSelected>
+<<<<<<< HEAD
     <WebStackScaffolding_LayoutPageFile />
+=======
+    <WebStackScaffolding_LayoutPageFile>~/Views/Shared/_Layout.cshtml</WebStackScaffolding_LayoutPageFile>
+>>>>>>> 1ae5e8211d978a069597b8d7bd796a9692f588e8
     <WebStackScaffolding_IsAsyncSelected>False</WebStackScaffolding_IsAsyncSelected>
     <UseIISExpress>true</UseIISExpress>
     <Use64BitIISExpress />
